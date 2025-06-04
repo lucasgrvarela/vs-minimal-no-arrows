@@ -1,0 +1,27 @@
+{
+  "name": "vs-minimal-no-arrows",
+  "displayName": "VS Minimal No Arrows",
+  "description": "VS Minimal icon theme with no arrows in the explorer",
+  "categories": [
+    "Themes"
+  ],
+  "version": "1.0.0",
+  "publisher": "lucasgrvarela",
+  "license": "MIT",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vs-minimal-no-arrows",
+        "label": "VS Minimal No Arrows",
+        "path": "./fileicons/vs_minimal-icon-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasgrvarela/vs-minimal-no-arrows.git"
+  }
+}
